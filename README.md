@@ -87,16 +87,11 @@ The projects covers core features;
 - Ensure you have npm installed
 - Ensure you have postgressql database installed
 
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/OduduU/mumzworld.git
    ```
 2. Install NPM packages
    ```sh
@@ -185,6 +180,6 @@ OduduAbasi Udeme Umoeka
 oumoeka@gmail.com
 2347013201735
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/OduduU/mumzworld.git](https://github.com/OduduU/mumzworld.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
