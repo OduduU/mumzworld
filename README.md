@@ -181,9 +181,9 @@ To test the APIs, use either option;
 
 ## Contact
 
-OduduAbasi Udeme Umoeka
-oumoeka@gmail.com
-2347013201735
+- OduduAbasi Udeme Umoeka
+- oumoeka@gmail.com
+- 2347013201735
 
 Project Link: [https://github.com/OduduU/mumzworld.git](https://github.com/OduduU/mumzworld.git)
 
