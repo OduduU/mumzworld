@@ -171,7 +171,9 @@ Weather endpoints includes;
 - Get City Weatger endpoint - This endpoint enables a user to get the recent weather details of a city.
 - Get City Forecast Weather - This endpoint enables a user to get a 5 days forecast detail of a city.
 
-To test the APIs;
+To test the APIs, use either option;
+
+- Access the documentation on [Postman Link](https://blue-rocket-509663.postman.co/workspace/Team-Workspace~43e6eb93-9450-4d15-8fd8-ad57eb21a5f4/collection/19242122-2bcaec81-feb8-4005-9824-e2bb3c8bdf05?action=share&creator=19242122) and open in postman desktop app.
 
 - Import MumzWorld.postman_collection.json in a postman client
 
