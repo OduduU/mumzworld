@@ -1,0 +1,33 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+type Favorite {
+  id: Float!
+  city: String!
+  description: String
+  author: User!
+  authorId: String!
+}
+
+type User {
+  id: Float!
+  email: String!
+  name: String!
+  password: String!
+  favorites: [Favorite!]!
+}
+
+type Query {
+  sayHello: String!
+}
+
+type Mutation {
+  createAuthor(params: CreateUserInput!): User!
+}
+
+input CreateUserInput {
+  email: String!
+  name: String!
+  password: String!
+}
