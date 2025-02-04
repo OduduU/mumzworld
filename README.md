@@ -153,6 +153,8 @@ On the get city's current weather and get city's forecast weather endpoints;
 The APIs to this project were comprehensively documented using Postman Collection.
 An exported json copy of the documentation can be found in the root directory of the project with the name MumzWorld.postman_collection.json
 
+You can also access the Postman collection through Documentation Link: [Postman Link](https://blue-rocket-509663.postman.co/workspace/Team-Workspace~43e6eb93-9450-4d15-8fd8-ad57eb21a5f4/collection/19242122-2bcaec81-feb8-4005-9824-e2bb3c8bdf05?action=share&creator=19242122)
+
 The Endpoints are categorized in User and Weather folders
 
 User endpoints includes;
